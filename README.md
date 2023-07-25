@@ -32,3 +32,4 @@
 ### 18. Modify the bug_report.json file on the web interface, add a bug report in JSON format.
 ### 19. Make Commit changes (save) changes on the web interface.
 ### 20. Synchronize external and local JSON repository
+> Git pull
