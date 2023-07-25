@@ -14,17 +14,18 @@
 ### 9. Push the file to an external GitHub repository.
 > git push 
 ### 10. Edit the content of the "new.json” file - write information about yourself (name, age, number of pets, future desired salary). Everything is written in JSON format.
-vim new.json
+>vim new.json
 ### 11. Push changes to an external repository.
-git push 
+>git push 
 ### 12. Create preferences.json file
 > touch preferences.json
 ### 13. In the preferences.json file, add information about your preferences (Favorite movie, favorite series, favorite food, favorite season, side you would like to visit) in JSON format.
-vim new.json or cat > new.json
+>vim new.json or cat > new.json
 ### 14. Create a file sklls.json add information about the skills that will be studied on the course in JSON format
-vim sklls.json 
+>vim sklls.json 
 ### 15. Send 2 files at once to an external repository.
 >git add .
+>
 >git commit -m "Comment"
 ### 16. On the web interface, create the bug_report.json file.
 ### 17. Make Commit changes (save) changes on the web interface.
