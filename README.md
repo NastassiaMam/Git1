@@ -5,9 +5,12 @@
 ### 4.Create an external repository called JSON.
 ### 5. Clone the JSON repository to the local machine.
 > git clone https://github.com/NastassiaMam/JSON.git
-  6. Inside the local JSON, create a “new.json” file.
-  7. Add file under git.
-  8. Commit the file.
+### 6. Inside the local JSON, create a “new.json” file.
+> touch new.json
+### 7. Add file under git.
+### 8. Commit the file.
+> git add new.json
+> git commit -am "Comment"
   9. Push the file to an external GitHub repository.
   10. Edit the content of the “new.json” file - write information about yourself (name, age, number of pets, future desired salary). Everything is written in JSON format.
   11. Push changes to an external repository.
