@@ -33,4 +33,4 @@
 ### 19. Make Commit changes (save) changes on the web interface.
 ### 20. Synchronize external and local JSON repository
 > Git pull
-> [Текст ссылки]((https://docs.google.com/document/d/1pE3xXj7lBHZyvNlJEyIXiHybtF9nvVeqyz6FH1sRBcw/edit)https://docs.google.com/document/d/1pE3xXj7lBHZyvNlJEyIXiHybtF9nvVeqyz6FH1sRBcw/edit)
+> [Текст ссылки](https://docs.google.com/document/d/1pE3xXj7lBHZyvNlJEyIXiHybtF9nvVeqyz6FH1sRBcw/edit)
